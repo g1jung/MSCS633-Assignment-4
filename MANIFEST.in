@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+include fraud_pyod_autoencoder.py
+recursive-include outputs *.png *.csv *.txt
